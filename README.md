@@ -5,9 +5,9 @@ I am a Full Stack Developer mainly working with javascript. I am an open-source 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [guptabarkha0610@gmail.com](mailto:guptabarkha0610@gmail.com)
-* 🧠  I'm learning angular and next js
+* 🧠  I'm learning next js
 * 🤝  I'm open to collaborating on interesting projects and code bases based on typescript or javascript.
-* ⚡  I recentIy got into tech. I aspire to be among the 1% developers in the next 5 years.
+* ⚡  I recentIy got into tech. I aspire to be among the top developers in the next 5 years.
 
 ### Skills
 
